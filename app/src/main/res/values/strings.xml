@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Скляна погода</string>
+
+    <string name="search_hint">Пошук міста</string>
+    <string name="search_loading">Шукаємо…</string>
+    <string name="search_no_results">Нічого не знайдено</string>
+    <string name="search_failed">Помилка пошуку. Перевірте з’єднання.</string>
+    <string name="remove_city">Видалити місто</string>
+
+    <string name="now">Зараз</string>
+    <string name="today">Сьогодні</string>
+    <string name="feels_like">Відчувається як %1$d°</string>
+    <string name="high_low">Макс. %1$d° · Мін. %2$d°</string>
+    <string name="hourly_title">Погодинний прогноз</string>
+    <string name="daily_title">Прогноз на 7 днів</string>
+    <string name="humidity">Вологість</string>
+    <string name="humidity_value">%1$d%%</string>
+    <string name="wind">Вітер</string>
+    <string name="wind_value">%1$d км/год</string>
+    <string name="refresh_failed">Не вдалося оновити дані. Показано збережений прогноз.</string>
+    <string name="loading">Завантаження…</string>
+
+    <string name="condition_clear">Ясно</string>
+    <string name="condition_mainly_clear">Переважно ясно</string>
+    <string name="condition_partly_cloudy">Мінлива хмарність</string>
+    <string name="condition_overcast">Похмуро</string>
+    <string name="condition_fog">Туман</string>
+    <string name="condition_drizzle">Мряка</string>
+    <string name="condition_rain">Дощ</string>
+    <string name="condition_freezing_rain">Крижаний дощ</string>
+    <string name="condition_snow">Сніг</string>
+    <string name="condition_showers">Злива</string>
+    <string name="condition_snow_showers">Снігопад</string>
+    <string name="condition_thunderstorm">Гроза</string>
+</resources>
